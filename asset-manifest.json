@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/a-toro/challenge-alura-geek.git/static/css/main.073c9b0a.css",
-    "main.js": "/a-toro/challenge-alura-geek.git/static/js/main.5c1f3adb.js",
+    "main.js": "/a-toro/challenge-alura-geek.git/static/js/main.e43da14a.js",
     "index.html": "/a-toro/challenge-alura-geek.git/index.html",
     "main.073c9b0a.css.map": "/a-toro/challenge-alura-geek.git/static/css/main.073c9b0a.css.map",
-    "main.5c1f3adb.js.map": "/a-toro/challenge-alura-geek.git/static/js/main.5c1f3adb.js.map"
+    "main.e43da14a.js.map": "/a-toro/challenge-alura-geek.git/static/js/main.e43da14a.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5c1f3adb.js"
+    "static/js/main.e43da14a.js"
   ]
 }
